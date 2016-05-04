@@ -1,0 +1,11 @@
+Time(s):          |Password:
+0.000213146209717 |Z
+0.00838589668274  |AD
+0.542782068253    |God
+102.917043209     |1234
+n/a*              |AbCdE
+n/a*              |Trojan
+n/a*              |F1ghtOn
+n/a*              |P@ssword
+
+*for the last 4 elements my mac killed the process before I could get a result

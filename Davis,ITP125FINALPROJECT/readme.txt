@@ -1,0 +1,1 @@
+To use this project, run the python file (ex for mac: Navigate to the file in terminal and and use the command: python itpfinal.py). Then enter the path to your passwords file and let, press return and let the program do the rest.
